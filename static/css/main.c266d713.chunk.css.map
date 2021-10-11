@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,MAEE,+BAAiC,CACjC,2BACF,CAEA,aACE,aACF,CAEA,IACE,WACF","file":"main.c266d713.chunk.css","sourcesContent":["td,\nth {\n  vertical-align: middle !important;\n  text-align: center !important;\n}\n\n.input-group {\n  margin: 20px, 0px;\n}\n\nsvg {\n  height: 75px;\n}\n"]}
